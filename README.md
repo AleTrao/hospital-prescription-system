@@ -2,7 +2,7 @@
 
 Client-server desktop application for managing medical prescriptions in a hospital, built in Java for the **Programming III** course at Universidad Nacional de Costa Rica (UNA).
 
-> Team project. Team: Alejandro Calderón, Alejandra Traña, _[add other members]_.
+> Team project. Team: Alejandra Traña Obando, Alejandro Calderón Campos, Luis Hidalgo Calvo.
 
 ## Features
 
